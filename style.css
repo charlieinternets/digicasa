@@ -1,0 +1,65 @@
+body {
+margin: 0px;
+}
+
+.bazar_cloudy {
+background-image: linear-gradient(#e95837, #f8bc1f, #9900cc);
+width: 100%;
+height: 100%;
+padding-top: 2rem;
+}
+
+.bazar_cloudy img{
+width: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: .5rem 0rem;
+}
+
+.bazar_cloudy p{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+.bazar_cloudy p{
+font-size: 2rem;
+font-family: futura, sans-serif;
+color: #ffffff;
+width: 50%;
+}
+
+a {
+color: #ffffff;
+}
+
+a:visited {
+color: #ffffff;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  font-size: 1rem;
+  font-family: futura, sans-serif;
+  padding: 1rem 2rem;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #9900cc;
+}
